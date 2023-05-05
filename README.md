@@ -134,30 +134,35 @@
     <td class="tg-0lax" align="center">2022/05</td>
     <td class="tg-baqh" align="center">175</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2205.01068">Paper</a></td>
+    <td class="tg-0lax" align="center">MetaAI</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">YaLM</td>
     <td class="tg-0lax" align="center">2022/06</td>
     <td class="tg-baqh" align="center">100</td>
     <td class="tg-0lax" align="center"><a href="https://github.com/yandex/YaLM-100B">Github</a></td>
+    <td class="tg-0lax" align="center">俄罗斯的学生</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">NLLB</td>
     <td class="tg-0lax" align="center">2022/07</td>
     <td class="tg-baqh" align="center">55</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2207.04672">Paper</a></td>
+    <td class="tg-0lax" align="center">MetaAI</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">BLOOM</td>
     <td class="tg-0lax" align="center">2022/07</td>
     <td class="tg-baqh" align="center">176</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2211.05100">Paper</a></td>
+      <td class="tg-0lax" align="center">Google</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">GLM</td>
     <td class="tg-0lax" align="center">2022/08</td>
     <td class="tg-baqh" align="center">130</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2210.02414">Paper</a></td>
+      <td class="tg-0lax" align="center">写了</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Flan-T5</td>
@@ -343,13 +348,16 @@
     <td class="tg-0lax" align="center">2022/03</td>
     <td class="tg-baqh" align="center">70</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2203.15556">Paper</a></td>
+    <td class="tg-0lax" align="center">DeepMind</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">PaLM</td>
     <td class="tg-0lax" align="center">2022/04</td>
     <td class="tg-baqh" align="center">540</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2204.02311">Paper</a></td>
-    <tr>
+    <td class="tg-0lax" align="center">Google Research</td>
+  </tr>
+  <tr>
     <td class="tg-baqh" align="center">Cohere</td>
     <td class="tg-0lax" align="center">2022/06</td>
     <td class="tg-baqh" align="center">54</td>
@@ -360,6 +368,7 @@
     <td class="tg-0lax" align="center">2022/08</td>
     <td class="tg-baqh" align="center">20</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2208.01448">Paper</a></td>
+    <td class="tg-0lax" align="center">Amazon Alexa AI</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Luminous</td>
@@ -372,48 +381,56 @@
     <td class="tg-0lax" align="center">2022/09</td>
     <td class="tg-baqh" align="center">70</td>
     <td class="tg-0lax" align="center"><a href="http://arxiv.org/abs/2209.14375v1">Paper</a></td>
+      <td class="tg-0lax" align="center">DeepMind</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">WeLM</td>
     <td class="tg-0lax" align="center">2022/09</td>
     <td class="tg-baqh" align="center">10</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2209.10372">Paper</a></td>
+      <td class="tg-0lax" align="center"> WeChat AI</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">U-PaLM</td>
     <td class="tg-0lax" align="center">2022/10</td>
     <td class="tg-baqh" align="center">540</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2210.11399">Paper</a></td>
+    <td class="tg-0lax" align="center">Google</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Flan-PaLM</td>
     <td class="tg-0lax" align="center">2022/10</td>
     <td class="tg-baqh" align="center" align="center">540</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2210.11416">Paper</a></td>
+      <td class="tg-0lax" align="center">Google</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Flan-U-PaLM</td>
     <td class="tg-0lax" align="center">2022/10</td>
     <td class="tg-baqh" align="center">540</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2210.11416">Paper</a></td>
+    <td class="tg-0lax" align="center">Google</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Alpaca</td>
     <td class="tg-0lax" align="center">2023/03</td>
     <td class="tg-baqh" align="center">7</td>
     <td class="tg-0lax" align="center"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Blog</a></td>
+    <td class="tg-0lax" align="center">stanford</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">GPT-4</td>
     <td class="tg-0lax" align="center">2023/3</td>
     <td class="tg-baqh" align="center">-</td>
     <td class="tg-0lax" align="center"><a href="http://arxiv.org/abs/2303.08774v2">Paper</a></td>
+    <td class="tg-0lax" align="center">OpenAI</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">PanGU-Σ</td>
     <td class="tg-0lax" align="center">2023/3</td>
     <td class="tg-baqh" align="center">1085</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.10845">Paper</a></td>
+    <td class="tg-0lax" align="center">Huawei</td>
   </tr>
 </tbody>
 </table>
