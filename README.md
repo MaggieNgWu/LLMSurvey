@@ -65,6 +65,7 @@
     <th class="tg-0lax" align="center" rowspan="2">Release Time</th>
     <th class="tg-baqh" align="center" rowspan="2">Size(B)</th>
     <th class="tg-0lax" align="center" rowspan="2">Link</th>
+    <th class="tg-0lax" align="center" rowspan="2">Memo</th>
   </tr>
   <tr>
   </tr>
@@ -112,18 +113,21 @@
     <td class="tg-0lax" align="center">2022/03</td>
     <td class="tg-baqh" align="center">16</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2203.13474">Paper</a></td>
+    <td class="tg-0lax" align="center">Salesforce Research</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Tk-Instruct</td>
     <td class="tg-0lax" align="center">2022/04</td>
     <td class="tg-baqh" align="center" align="center">11</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2204.07705">Paper</a></td>
+    <td class="tg-0lax" align="center">By Universities</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">UL2</td>
     <td class="tg-0lax" align="center">2022/02</td>
     <td class="tg-baqh" align="center">20</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2205.05131">Paper</a></td>
+    <td class="tg-0lax" align="center">Google Brain</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">OPT</td>
@@ -160,30 +164,35 @@
     <td class="tg-0lax" align="center">2022/10</td>
     <td class="tg-baqh" align="center">11</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2210.11416">Paper</a></td>
+    <td class="tg-0lax" align="center">Google</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">mT0</td>
     <td class="tg-0lax" align="center">2022/11</td>
     <td class="tg-baqh" align="center">13</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2211.01786">Paper</a></td>
+    <td class="tg-0lax" align="center">Industry + 1～2 student</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Galatica</td>
     <td class="tg-0lax" align="center" align="center" align="center">2022/11</td>
     <td class="tg-baqh" align="center" align="center">120</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2211.09085">Paper</a></td>
+    <td class="tg-0lax" align="center"> Meta AI </td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">BLOOMZ</td>
     <td class="tg-0lax" align="center">2022/11</td>
     <td class="tg-baqh" align="center">176</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2211.01786">Paper</a></td>
+    <td class="tg-0lax" align="center">Industry + 1～2 student</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">OPT-IML</td>
     <td class="tg-0lax" align="center">2022/12</td>
     <td class="tg-baqh" align="center">175</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2212.12017">Paper</a></td>
+    <td class="tg-0lax" align="center"> Meta AI </td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Pythia</td>
@@ -196,6 +205,7 @@
     <td class="tg-0lax" align="center">2023/02</td>
     <td class="tg-baqh" align="center">65</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2302.13971v1">Paper</a></td>
+    <td class="tg-0lax" align="center"> Meta AI </td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Vicuna</td>
@@ -208,12 +218,14 @@
     <td class="tg-0lax" align="center">2023/03</td>
     <td class="tg-baqh" align="center">6</td>
     <td class="tg-0lax" align="center"><a href="https://github.com/THUDM/ChatGLM-6B">Github</a></td>
+    <td class="tg-0lax" align="center"> 清华 </td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">CodeGeeX</td>
     <td class="tg-0lax" align="center">2023/03</td>
     <td class="tg-baqh" align="center">13</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.17568">Paper</a></td>
+    <td class="tg-0lax" align="center"> 清华 </td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Koala</td>
@@ -317,12 +329,14 @@
     <td class="tg-0lax" align="center">2022/01</td>
     <td class="tg-baqh" align="center">175</td>
     <td class="tg-0lax" align="center"><a href="http://arxiv.org/abs/2203.02155v1">Paper</a></td>
+    <td class="tg-0lax" align="center">OpenAI</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">AlphaCode</td>
     <td class="tg-0lax" align="center">2022/02</td>
     <td class="tg-baqh" align="center">41</td>
     <td class="tg-0lax" align="center"><a href="http://arxiv.org/abs/2203.07814v1">Paper</a></td>
+    <td class="tg-0lax" align="center">DeepMind</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Chinchilla</td>
